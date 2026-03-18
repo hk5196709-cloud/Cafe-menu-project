@@ -10,6 +10,7 @@ Beginner-friendly code
 🛠️ Technologies Used
 HTML5
 CSS3
+Php
 📚 What I Learned
 How to structure content using HTML
 Styling elements with CSS
